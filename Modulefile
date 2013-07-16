@@ -1,4 +1,4 @@
-name 'ploperations-statsd'
+name 'maestrodev-statsd'
 version '1.0.2'
 author 'Adrien Thebo <adrien@puppetlabs.com>'
 license 'Apache 2.0'
