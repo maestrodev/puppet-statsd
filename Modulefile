@@ -9,4 +9,4 @@ description 'Install and manage statsd, a UDP based gateway to Graphite'
 source 'https://github.com/puppetlabs-operations/puppet-statsd'
 project_page 'https://github.com/puppetlabs-operations/puppet-statsd'
 
-#dependency 'puppetlabs/nodejs', '>= 0.2.0'
+dependency 'puppetlabs/nodejs', '>= 0.2.0'
