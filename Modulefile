@@ -1,5 +1,5 @@
 name 'maestrodev-statsd'
-version '1.0.3'
+version '1.0.4'
 author 'Adrien Thebo <adrien@puppetlabs.com>'
 license 'Apache 2.0'
 
